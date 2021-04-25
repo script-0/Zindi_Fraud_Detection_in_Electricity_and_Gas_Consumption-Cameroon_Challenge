@@ -1,0 +1,3 @@
+# [Zindi]Fraud_Detection_in_Electricity_and_Gas_Consumption-Cameroon_challenge
+
+Ranked 2nd notebook
